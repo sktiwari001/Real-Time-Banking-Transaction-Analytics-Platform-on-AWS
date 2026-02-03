@@ -1,1 +1,33 @@
+Data Source (CSV / API)
+
+        |
+
+        |
+
+   AWS S3 (Raw Layer)
+
+        |
+
+        |
+
+ Databricks (PySpark Processing)
+
+        |
+
+        |
+
+ AWS S3 (Cleaned & Transformed Layer)
+
+        |
+
+        |
+
+  SQL Analytics (Athena / Oracle SQL)
+
+        |
+
+        |
+
+ Business Dashboards / Reports
+ 
 
