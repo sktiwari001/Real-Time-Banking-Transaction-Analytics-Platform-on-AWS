@@ -1,33 +1,16 @@
-Data Source (CSV / API)
+                                                            Python Transaction Generator
+                                                                          |
+                                                              Amazon Kinesis (Streaming)
+                                                                          |
+                                                              AWS Lambda (Processing)
+                                                                          |
+                                                                Amazon S3 (Data Lake)
+                                                                          |
+                                                                    AWS Glue (ETL)
+                                                                          |
+                                                            Athena / Redshift  (Analytics)
+                                                                          |
+                                                                QuickSight (Dashboard)
 
-        |
-
-        |
-
-   AWS S3 (Raw Layer)
-
-        |
-
-        |
-
- Databricks (PySpark Processing)
-
-        |
-
-        |
-
- AWS S3 (Cleaned & Transformed Layer)
-
-        |
-
-        |
-
-  SQL Analytics (Athena / Oracle SQL)
-
-        |
-
-        |
-
- Business Dashboards / Reports
  
 
